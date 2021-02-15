@@ -16,6 +16,7 @@ limitations under the License.
 
 # Google Earth Engine Community [![Build Status](https://travis-ci.org/google/earthengine-community.svg?branch=master)](https://travis-ci.org/google/earthengine-community)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SigveMartin/earthengine-community/blob/master/tutorials/tutorial-template.ipynb)
 This repository contains content submitted and/or maintained by the Earth Engine
 user community.
 
